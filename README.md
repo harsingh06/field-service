@@ -1,3 +1,3 @@
-# firstrepo
+# Master Branch
 
-Testing my first github repo
+Learning Git Branching
